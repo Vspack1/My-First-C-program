@@ -1,2 +1,2 @@
-# My-First-C-program
+# My-First-C-Sharp-program
 My First C# program
